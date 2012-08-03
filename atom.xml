@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://fernandomayer-dev.github.com/atom.xml" rel="self"/>
-  <link href="http://fernandomayer-dev.github.com/"/>
-  <updated>2012-08-03T02:34:52-03:00</updated>
-  <id>http://fernandomayer-dev.github.com/</id>
+  <link href="http://fernandomayer-dev.github.com/Hello-World/atom.xml" rel="self"/>
+  <link href="http://fernandomayer-dev.github.com/Hello-World/"/>
+  <updated>2012-08-03T03:01:24-03:00</updated>
+  <id>http://fernandomayer-dev.github.com/Hello-World/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
